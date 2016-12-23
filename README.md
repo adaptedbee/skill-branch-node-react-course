@@ -1,2 +1,2 @@
 # Node.js backend & React frontend
-Репозиторий интенсива <a href="http://skill-branch.ru/backend">SkillBranch</a>
+Репозиторий <a href="http://skill-branch.ru/backend">интенсива</a> SkillBranch
